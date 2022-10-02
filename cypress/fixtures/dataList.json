@@ -1,0 +1,10 @@
+{
+    "url": "https://www.amazon.com",
+    "email": " ",
+    "invalidEmail": "test12345",
+    "password": " ",
+    "invalidPassword": "12345a",
+    "itemPrice": " $139.95",
+    "itemTotalPrice": " $149.94"
+
+}
